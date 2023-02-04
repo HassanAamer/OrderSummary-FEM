@@ -26,8 +26,8 @@ Users should be able to:
 <img src="ss.png" width="375" height="667" />
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub)
+- Live Site URL: [Click here](https://animated-florentine-0b272e.netlify.app)
 
 ## My process
 
