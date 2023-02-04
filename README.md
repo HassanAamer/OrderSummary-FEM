@@ -24,6 +24,7 @@ Users should be able to:
 ### Screenshot
 
 <img src="ss.png" width="375" height="667" />
+
 ### Links
 
 - Solution URL: [Click here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub)
